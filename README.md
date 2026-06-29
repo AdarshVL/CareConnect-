@@ -366,7 +366,7 @@ The project demonstrates how modern technologies like **React**, **MERN Stack**,
 
 💼 AI & Data Science Student | Python Developer | Java Developer | Full Stack Developer
 
-📧 Email: [adarshlilhare@example.com](mailto:adarshlilhare@example.com)
+📧 Email: [adarshlilhare5@gmail.com](mailto:adarshlilhare@example.com)
 
 🐙 GitHub: https://github.com/AdarshVL
 
