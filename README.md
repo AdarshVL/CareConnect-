@@ -175,8 +175,6 @@ The application allows users to:
 | UI Library           | shadcn/ui       |
 | Maps                 | Google Maps API |
 | Backend Architecture | MERN Stack      |
-| Real-Time Services   | Firebase        |
-| Mobile Application   | Flutter         |
 
 ---
 
